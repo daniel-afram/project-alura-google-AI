@@ -15,7 +15,7 @@ Análise de pontos fortes e fracos, temas abordados, impacto cultural e relevân
 Elenco principal (atores e dubladores) 🎭.
 Ordem cronológica da saga (se aplicável) ➡️.
 Mídias relacionadas que expandem o universo da obra 🌌.
-# Formatação amigável: Os relatórios são formatados de maneira organizada e visualmente atraente, utilizando emojis, separadores e quebras de linha para melhor legibilidade ✨.
+Formatação amigável: Os relatórios são formatados de maneira organizada e visualmente atraente, utilizando emojis, separadores e quebras de linha para melhor legibilidade ✨.
 
 # Como funciona:
 Inicialização do modelo Gemini: O código configura o modelo Gemini, definindo parâmetros como temperatura e configurações de segurança ⚙️.
